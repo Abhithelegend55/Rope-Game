@@ -108,7 +108,7 @@ function setup() {
   
   rope = new Rope(8,{x:245,y:30});
   
-  rope2 = new Rope(5,{x:385,y:1b00});
+  rope2 = new Rope(5,{x:385,y:100});
   
   rope3 = new Rope(7,{x:515,y:50});
   
